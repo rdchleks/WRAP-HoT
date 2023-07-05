@@ -1,0 +1,9 @@
+,agency_cd,site_no,station_nm,site_tp_cd,dec_lat_va,dec_long_va,coord_acy_cd,dec_coord_datum_cd,alt_va,alt_acy_va,alt_datum_cd,huc_cd,data_type_cd,parm_cd,stat_cd,ts_id,loc_web_ds,medium_grp_cd,parm_grp_cd,srs_id,access_cd,begin_date,end_date,count_nu
+0,USGS,1367690,Franklin Pond Creek at Beaver Lake NJ,ST,41.10527778,-74.5596111,1,NAD83,900,10,NGVD29,2020007,uv,60,,194265,,wat,,1645423,0,9/1/2010,3/31/2014,1307
+1,USGS,1367690,Franklin Pond Creek at Beaver Lake NJ,ST,41.10527778,-74.5596111,1,NAD83,900,10,NGVD29,2020007,uv,65,,194264,,wat,,17164583,0,9/1/2010,3/31/2014,1307
+2,USGS,1367715,Wallkill R at Scott Road at Franklin NJ,ST,41.1333333,-74.5786111,S,NAD83,,,,2020007,uv,21,,234034,,wat,,1645738,0,12/22/2022,4/21/2023,120
+3,USGS,1367715,Wallkill R at Scott Road at Franklin NJ,ST,41.1333333,-74.5786111,S,NAD83,,,,2020007,uv,60,,234032,,wat,,1645423,0,6/22/2018,4/21/2023,1764
+4,USGS,1367715,Wallkill R at Scott Road at Franklin NJ,ST,41.1333333,-74.5786111,S,NAD83,,,,2020007,uv,65,,234029,,wat,,17164583,0,6/22/2018,4/21/2023,1764
+5,USGS,1367800,Papakating Creek at Pellettown NJ,ST,41.16277778,-74.67527778,S,NAD83,414.28,0.5,NAVD88,2020007,uv,60,,194267,,wat,,1645423,0,9/16/2003,8/16/2014,3987
+6,USGS,1367800,Papakating Creek at Pellettown NJ,ST,41.16277778,-74.67527778,S,NAD83,414.28,0.5,NAVD88,2020007,uv,65,,194266,,wat,,17164583,0,10/1/2007,9/30/2014,2556
+9,USGS,1377000,Hackensack River at Rivervale NJ,ST,40.99916667,-73.9891667,S,NAD83,22.51,0.01,NGVD29,2030103,uv,60,,194276,,wat,,1645423,0,10/1/1981,4/20/2023,15176
