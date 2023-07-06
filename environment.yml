@@ -8,8 +8,6 @@ dependencies:
   - matplotlib
   - pip
   - dataretrieval
-  - datetime
-  - csv
   - pip:
       - jupyter-collaboration
       - ttide
