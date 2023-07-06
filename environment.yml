@@ -8,6 +8,7 @@ dependencies:
   - matplotlib
   - pip
   - dataretrieval
+  - scipy
   - pip:
       - jupyter-collaboration
 prefix: /Users/rdchleks/anaconda3/envs/WRAP_HoT
