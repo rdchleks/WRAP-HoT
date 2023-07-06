@@ -10,5 +10,4 @@ dependencies:
   - dataretrieval
   - pip:
       - jupyter-collaboration
-      - ttide
 prefix: /Users/rdchleks/anaconda3/envs/WRAP_HoT
