@@ -1,7 +1,7 @@
 name: WRAP_HoT
 channels:
   - conda-forge
-  - defaults
+  - conda
 dependencies:
   - python
   - numpy
