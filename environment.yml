@@ -9,6 +9,7 @@ dependencies:
   - pip
   - dataretrieval
   - scipy
+  -foilum
   - pip:
       - jupyter-collaboration
 prefix: /Users/rdchleks/anaconda3/envs/WRAP_HoT
