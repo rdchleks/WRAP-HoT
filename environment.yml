@@ -10,6 +10,8 @@ dependencies:
   - dataretrieval
   - scipy
   - folium
+  - json
+  - geopandas
   - pip:
       - jupyter-collaboration
 prefix: /Users/rdchleks/anaconda3/envs/WRAP_HoT
