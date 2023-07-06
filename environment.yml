@@ -10,7 +10,6 @@ dependencies:
   - dataretrieval
   - scipy
   - folium
-  - json
   - geopandas
   - pip:
       - jupyter-collaboration
